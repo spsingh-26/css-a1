@@ -1,0 +1,11 @@
+body{
+    color: chocolate;
+}
+.italics{
+    font-style: italic;
+}
+ol li{
+    padding: 15px 0px;
+}
+ul li{
+    letter-spacing: 5px;}
